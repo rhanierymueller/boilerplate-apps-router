@@ -2,7 +2,6 @@
 exports.__esModule = true;
 exports.metadata = void 0;
 var local_1 = require("next/font/local");
-require("./globals.css");
 var geistSans = local_1["default"]({
     src: './fonts/GeistVF.woff',
     variable: '--font-geist-sans',
