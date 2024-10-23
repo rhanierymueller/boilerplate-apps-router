@@ -37,3 +37,8 @@ next-env.d.ts
 
 #dist 
 dist
+
+*storybook.log
+
+# storybook
+storybook-static
